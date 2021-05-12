@@ -1,4 +1,4 @@
-# Cursor-Icons-site
+# Cursor-Icons-example
  
 Сайт с иконками, при наведение которых меняется курсор
 
