@@ -10,4 +10,3 @@ https://vladimirsaenko.github.io/Portfolio-3/sites/site-17/Cursor-Icon/index.htm
 
 }
 
-### P.S Фича работает в десктопной версии
